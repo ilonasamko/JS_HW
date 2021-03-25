@@ -1,38 +1,28 @@
 // operators *=, /=
 
-var ballons = 100;
+let ballons = 100;
 ballons *= 2;
 console.log(ballons) // 200
 
-var ballons = 100;
+let ballons = 100;
 ballons /= 8;
 console.log(ballons) // 12.5
 
 //converting strings to uppercase and lowercase
 
-var justString = "эЙ, кАК деЛА?";
-var lowerString = justString.toLowerCase();
-var firstCharacter = lowerString[0];
-var firstCharacterUpper = firstCharacter.toUpperCase();
-var restOfString = lowerString.slice(1);
-var correctString = firstCharacterUpper + restOfString;
-console.log(correctString);
+const str = "эЙ, кАК деЛА?";
+console.log(str[0].toUpperCase() + str.slice(1).toLowerCase())
 
-// Try exercise p47
+// // Try exercise p47
 
 // Input parameters
-var age = 11;
-var accompanied = true;
+let age = 11;
+let accompanied = true;
 
-// Result
-var shouldToPass;
 
 // if/else construction to check condition
-if (age >= 12){
-    shouldToPass = true;
-} else if (age < 12 && accompanied == true){
-    shouldToPass = true;
-} else {
-    shouldToPass = false;
-}
-console.log(shouldToPass);
+if (age >= 10 || accompanied){
+    console.log("Come in");
+} else{
+    console.log("Sorry, you can't go to this movie")
+};
