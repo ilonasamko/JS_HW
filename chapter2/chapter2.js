@@ -4,7 +4,7 @@ let ballons = 100;
 ballons *= 2;
 console.log(ballons) // 200
 
-let ballons = 100;
+ballons = 100;
 ballons /= 8;
 console.log(ballons) // 12.5
 
@@ -21,8 +21,8 @@ let accompanied = true;
 
 
 // if/else construction to check condition
-if (age >= 10 || accompanied){
+if (age >= 10 || accompanied) {
     console.log("Come in");
-} else{
+} else {
     console.log("Sorry, you can't go to this movie")
-};
+}

@@ -12,7 +12,7 @@ const randomAdjective = randomAdjectives[Math.floor(Math.random() * 4)];
 
 const randomAnimal = randomAnimals[Math.floor(Math.random() * 3)];
 
-console.log (
+console.log(
     "You have " + randomBodyPart + " " + "like" + " " + randomAdjective + " " + randomAnimal);
 
 
@@ -30,10 +30,6 @@ console.log(randomWordsArray.join(" ") + "!");
 
 //#4
 console.log([3, 2, 1].join(" more ", " than "));
-
-
-
-
 
 
 // Notes
