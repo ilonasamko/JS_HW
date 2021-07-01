@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<h1 id="heading"> Hello world!</h1>
+<script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
+        crossorigin="anonymous"></script>
+<script>
+
+    let leftOffset = 0;
+    let moveHeading = function () {
+        $("#heading").offset({left: leftOffset});
+        leftOffset++;
+
+        if (leftOffset > 200) {
+            leftOffset = 0;
+        }
+
+    };
+    setInterval(moveHeading, 10);
+
+    let clickHandler = function (event) {
+        console.log("Click! " + event.pageX + " " + event.pageY)
+    };
+    $("h1").click(clickHandler);
+
+    $("html").mousemove(function (event) {
+        $("#heading").offset({
+            left: event.pageX,
+            top: event.pageY
+        });
+    });
+
+    // #1. Следом за кликами
+
+    $("html").click(function (event) {
+        $("#heading").offset({
+            left: event.pageX,
+            top: event.pageY
+        });
+    });
+
+    // #2. Создайте собственную анимацию
+
+    let direction = 'right';
+    let offset = 0;
+
+    $("#heading").offset({left: offset, top: offset});
+
+    let moveHeading = function () {
+        if (direction === 'right') {
+            $("#heading").offset({left: offset});
+            offset++;
+            if (offset > 200) {
+                offset = 0;
+                direction = 'down';
+            }
+        } else if (direction === 'down') {
+            $("#heading").offset({top: offset});
+            offset++;
+            if (offset > 200) {
+                offset = 200;
+                direction = 'left';
+            }
+        } else if (direction === 'left') {
+            $("#heading").offset({left: offset});
+            offset--;
+            if (offset < 0) {
+                offset = 200;
+                direction = 'up';
+            }
+        } else if (direction === 'up') {
+            $("#heading").offset({top: offset});
+            offset--;
+            if (offset < 0) {
+                offset = 0;
+                direction = 'right';
+            }
+        }
+    };
+
+    setInterval(moveHeading, 30);
+
+    // #3. Остановка анимации по клику
+
+    const intervalId = setInterval(animatedTitle, 30);
+
+    $("#heading").click(function () {
+        clearInterval(intervalId);
+    });
