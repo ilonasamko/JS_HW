@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2108dd38-1b67-47db-8c52-38aebec38c5f" name="Default Changelist" comment="add chapter8">
+      <change afterPath="$PROJECT_DIR$/chapter8/chapter8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter8/chapter8.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/chapter2.js" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/chapter2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/chapter3.js" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/chapter3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/chapter4.js" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/chapter4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/chapter6.js" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/chapter6.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1o99LUh0t3ZR25plEVyS8hb0ffn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Chapter7" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ilona.samko\js_for_kids\JS_HW\Chapter7" />
+      <recent name="C:\Users\ilona.samko\js_for_kids\JS_HW\Chapter1" />
+      <recent name="C:\Users\ilona.samko\js_for_kids\JS_HW\Chapter2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ilona.samko\js_for_kids\JS_HW" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.chapter8.js">
+    <configuration name="chapter2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/chapter2/chapter2.js" working-dir="$PROJECT_DIR$/chapter2">
+      <method v="2" />
+    </configuration>
+    <configuration name="chapter3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/chapter3/chapter3.js" working-dir="$PROJECT_DIR$/chapter3">
+      <method v="2" />
+    </configuration>
+    <configuration name="chapter4.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/chapter4/chapter4.js" working-dir="$PROJECT_DIR$/chapter4">
+      <method v="2" />
+    </configuration>
+    <configuration name="chapter6.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/chapter6/chapter6.js" working-dir="$PROJECT_DIR$/chapter6">
+      <method v="2" />
+    </configuration>
+    <configuration name="chapter8.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/chapter8/chapter8.js" working-dir="$PROJECT_DIR$/chapter8">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.chapter8.js" />
+        <item itemvalue="Node.js.chapter6.js" />
+        <item itemvalue="Node.js.chapter4.js" />
+        <item itemvalue="Node.js.chapter3.js" />
+        <item itemvalue="Node.js.chapter2.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2108dd38-1b67-47db-8c52-38aebec38c5f" name="Default Changelist" comment="" />
+      <created>1612687884075</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612687884075</updated>
+      <workItem from="1612687885148" duration="58278000" />
+      <workItem from="1616168777627" duration="48591000" />
+      <workItem from="1617960326570" duration="10710000" />
+      <workItem from="1619100893550" duration="25067000" />
+    </task>
+    <task id="LOCAL-00001" summary="tasks from character 2">
+      <created>1612717427509</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612717427509</updated>
+    </task>
+    <task id="LOCAL-00002" summary="tasks from character 2">
+      <created>1612717519211</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1612717519211</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update for chapter 1">
+      <created>1615299879292</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1615299879292</updated>
+    </task>
+    <task id="LOCAL-00004" summary="change variables declaration">
+      <created>1616418851765</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1616418851765</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update for chapter 2">
+      <created>1616696459538</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1616696459538</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Chapter3">
+      <created>1616955541625</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1616955541625</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Chapter7 (Game)">
+      <created>1616956182555</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1616956182555</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Chapter4">
+      <created>1617020742160</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1617020742160</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Chapter6">
+      <created>1617118804510</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1617118804510</updated>
+    </task>
+    <task id="LOCAL-00010" summary="update for titles">
+      <created>1617202658265</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1617202658265</updated>
+    </task>
+    <task id="LOCAL-00011" summary="update for titles">
+      <created>1617203144116</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1617203144116</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="tasks from character 2" />
+    <MESSAGE value="update for chapter 1" />
+    <MESSAGE value="change variables declaration" />
+    <MESSAGE value="update for chapter 2" />
+    <MESSAGE value="Chapter3" />
+    <MESSAGE value="Chapter7 (Game)" />
+    <MESSAGE value="Chapter4" />
+    <MESSAGE value="Chapter6" />
+    <MESSAGE value="update for titles" />
+    <MESSAGE value="add chapter8" />
+    <option name="LAST_COMMIT_MESSAGE" value="add chapter8" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1334" y="91" key="#Inspections" timestamp="1617111748592">
+      <screen x="-1920" y="-107" width="1920" height="1040" />
+    </state>
+    <state x="-1334" y="91" key="#Inspections/0.0.1536.824/-1920.-107.1920.1040@-1920.-107.1920.1040" timestamp="1617111748592" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1615309564419">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824/-1920.-107.1920.1040@0.0.1536.824" timestamp="1615309564419" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1612873434302">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/-1920.-107.1920.1040@0.0.1536.824" timestamp="1612873434302" />
+    <state width="1899" height="228" key="GridCell.Tab.0.bottom" timestamp="1625121390514">
+      <screen x="-1920" y="-107" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="228" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.-107.1920.1040@-1920.-107.1920.1040" timestamp="1625121390514" />
+    <state width="1515" height="228" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.-107.1920.1040@0.0.1536.824" timestamp="1623327788100" />
+    <state width="1515" height="305" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1621276204332" />
+    <state width="1899" height="228" key="GridCell.Tab.0.center" timestamp="1625121390514">
+      <screen x="-1920" y="-107" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="228" key="GridCell.Tab.0.center/0.0.1536.824/-1920.-107.1920.1040@-1920.-107.1920.1040" timestamp="1625121390514" />
+    <state width="1515" height="228" key="GridCell.Tab.0.center/0.0.1536.824/-1920.-107.1920.1040@0.0.1536.824" timestamp="1623327788099" />
+    <state width="1515" height="305" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1621276204331" />
+    <state width="1899" height="228" key="GridCell.Tab.0.left" timestamp="1625121390513">
+      <screen x="-1920" y="-107" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="228" key="GridCell.Tab.0.left/0.0.1536.824/-1920.-107.1920.1040@-1920.-107.1920.1040" timestamp="1625121390513" />
+    <state width="1515" height="228" key="GridCell.Tab.0.left/0.0.1536.824/-1920.-107.1920.1040@0.0.1536.824" timestamp="1623327788099" />
+    <state width="1515" height="305" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1621276204331" />
+    <state width="1899" height="228" key="GridCell.Tab.0.right" timestamp="1625121390514">
+      <screen x="-1920" y="-107" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="228" key="GridCell.Tab.0.right/0.0.1536.824/-1920.-107.1920.1040@-1920.-107.1920.1040" timestamp="1625121390514" />
+    <state width="1515" height="228" key="GridCell.Tab.0.right/0.0.1536.824/-1920.-107.1920.1040@0.0.1536.824" timestamp="1623327788100" />
+    <state width="1515" height="305" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1621276204331" />
+    <state width="1899" height="347" key="GridCell.Tab.1.bottom" timestamp="1617119702908">
+      <screen x="-1920" y="-107" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="347" key="GridCell.Tab.1.bottom/0.0.1536.824/-1920.-107.1920.1040@-1920.-107.1920.1040" timestamp="1617119702908" />
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824/-1920.-107.1920.1040@0.0.1536.824" timestamp="1612909918077" />
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1616953162655" />
+    <state width="1899" height="347" key="GridCell.Tab.1.center" timestamp="1617119702907">
+      <screen x="-1920" y="-107" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="347" key="GridCell.Tab.1.center/0.0.1536.824/-1920.-107.1920.1040@-1920.-107.1920.1040" timestamp="1617119702907" />
+    <state width="1515" height="261" key="GridCell.Tab.1.center/0.0.1536.824/-1920.-107.1920.1040@0.0.1536.824" timestamp="1612909918076" />
+    <state width="1515" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1616953162654" />
+    <state width="1899" height="347" key="GridCell.Tab.1.left" timestamp="1617119702907">
+      <screen x="-1920" y="-107" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="347" key="GridCell.Tab.1.left/0.0.1536.824/-1920.-107.1920.1040@-1920.-107.1920.1040" timestamp="1617119702907" />
+    <state width="1515" height="261" key="GridCell.Tab.1.left/0.0.1536.824/-1920.-107.1920.1040@0.0.1536.824" timestamp="1612909918076" />
+    <state width="1515" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1616953162654" />
+    <state width="1899" height="347" key="GridCell.Tab.1.right" timestamp="1617119702908">
+      <screen x="-1920" y="-107" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="347" key="GridCell.Tab.1.right/0.0.1536.824/-1920.-107.1920.1040@-1920.-107.1920.1040" timestamp="1617119702908" />
+    <state width="1515" height="261" key="GridCell.Tab.1.right/0.0.1536.824/-1920.-107.1920.1040@0.0.1536.824" timestamp="1612909918076" />
+    <state width="1515" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1616953162655" />
+    <state width="1899" height="347" key="GridCell.Tab.2.bottom" timestamp="1617119702908">
+      <screen x="-1920" y="-107" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="347" key="GridCell.Tab.2.bottom/0.0.1536.824/-1920.-107.1920.1040@-1920.-107.1920.1040" timestamp="1617119702908" />
+    <state width="1515" height="261" key="GridCell.Tab.2.bottom/0.0.1536.824/-1920.-107.1920.1040@0.0.1536.824" timestamp="1612909918077" />
+    <state width="1515" height="261" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1616953162656" />
+    <state width="1899" height="347" key="GridCell.Tab.2.center" timestamp="1617119702908">
+      <screen x="-1920" y="-107" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="347" key="GridCell.Tab.2.center/0.0.1536.824/-1920.-107.1920.1040@-1920.-107.1920.1040" timestamp="1617119702908" />
+    <state width="1515" height="261" key="GridCell.Tab.2.center/0.0.1536.824/-1920.-107.1920.1040@0.0.1536.824" timestamp="1612909918077" />
+    <state width="1515" height="261" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1616953162655" />
+    <state width="1899" height="347" key="GridCell.Tab.2.left" timestamp="1617119702908">
+      <screen x="-1920" y="-107" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="347" key="GridCell.Tab.2.left/0.0.1536.824/-1920.-107.1920.1040@-1920.-107.1920.1040" timestamp="1617119702908" />
+    <state width="1515" height="261" key="GridCell.Tab.2.left/0.0.1536.824/-1920.-107.1920.1040@0.0.1536.824" timestamp="1612909918077" />
+    <state width="1515" height="261" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1616953162655" />
+    <state width="1899" height="347" key="GridCell.Tab.2.right" timestamp="1617119702908">
+      <screen x="-1920" y="-107" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="347" key="GridCell.Tab.2.right/0.0.1536.824/-1920.-107.1920.1040@-1920.-107.1920.1040" timestamp="1617119702908" />
+    <state width="1515" height="261" key="GridCell.Tab.2.right/0.0.1536.824/-1920.-107.1920.1040@0.0.1536.824" timestamp="1612909918077" />
+    <state width="1515" height="261" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1616953162656" />
+    <state width="1899" height="347" key="GridCell.Tab.3.bottom" timestamp="1617119702908">
+      <screen x="-1920" y="-107" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="347" key="GridCell.Tab.3.bottom/0.0.1536.824/-1920.-107.1920.1040@-1920.-107.1920.1040" timestamp="1617119702908" />
+    <state width="1515" height="261" key="GridCell.Tab.3.bottom/0.0.1536.824/-1920.-107.1920.1040@0.0.1536.824" timestamp="1612909918077" />
+    <state width="1515" height="261" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1616953162657" />
+    <state width="1899" height="347" key="GridCell.Tab.3.center" timestamp="1617119702908">
+      <screen x="-1920" y="-107" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="347" key="GridCell.Tab.3.center/0.0.1536.824/-1920.-107.1920.1040@-1920.-107.1920.1040" timestamp="1617119702908" />
+    <state width="1515" height="261" key="GridCell.Tab.3.center/0.0.1536.824/-1920.-107.1920.1040@0.0.1536.824" timestamp="1612909918077" />
+    <state width="1515" height="261" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1616953162656" />
+    <state width="1899" height="347" key="GridCell.Tab.3.left" timestamp="1617119702908">
+      <screen x="-1920" y="-107" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="347" key="GridCell.Tab.3.left/0.0.1536.824/-1920.-107.1920.1040@-1920.-107.1920.1040" timestamp="1617119702908" />
+    <state width="1515" height="261" key="GridCell.Tab.3.left/0.0.1536.824/-1920.-107.1920.1040@0.0.1536.824" timestamp="1612909918077" />
+    <state width="1515" height="261" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1616953162656" />
+    <state width="1899" height="347" key="GridCell.Tab.3.right" timestamp="1617119702908">
+      <screen x="-1920" y="-107" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="347" key="GridCell.Tab.3.right/0.0.1536.824/-1920.-107.1920.1040@-1920.-107.1920.1040" timestamp="1617119702908" />
+    <state width="1515" height="261" key="GridCell.Tab.3.right/0.0.1536.824/-1920.-107.1920.1040@0.0.1536.824" timestamp="1612909918077" />
+    <state width="1515" height="261" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1616953162656" />
+    <state x="-1234" y="38" key="RollbackChangesDialog" timestamp="1625121527506">
+      <screen x="-1920" y="-107" width="1920" height="1040" />
+    </state>
+    <state x="-1234" y="38" key="RollbackChangesDialog/0.0.1536.824/-1920.-107.1920.1040@-1920.-107.1920.1040" timestamp="1625121527506" />
+    <state x="549" y="115" key="RollbackChangesDialog/0.0.1536.824/-1920.-107.1920.1040@0.0.1536.824" timestamp="1612813293074" />
+    <state x="549" y="115" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1616955512185" />
+    <state x="555" y="115" key="SettingsEditor" timestamp="1615299567737">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-998" y="61" key="SettingsEditor/0.0.1536.824/-1920.-107.1920.1040@-1920.-107.1920.1040" timestamp="1612942637420" />
+    <state x="555" y="115" key="SettingsEditor/0.0.1536.824/-1920.-107.1920.1040@0.0.1536.824" timestamp="1615299567737" />
+    <state x="-1469" y="60" key="Vcs.Push.Dialog.v2" timestamp="1616696462733">
+      <screen x="-1920" y="-107" width="1920" height="1040" />
+    </state>
+    <state x="-1469" y="60" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1920.-107.1920.1040@-1920.-107.1920.1040" timestamp="1616696462733" />
+    <state x="361" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1920.-107.1920.1040@0.0.1536.824" timestamp="1616418856059" />
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup" timestamp="1621948090251">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824/-1920.-107.1920.1040@0.0.1536.824" timestamp="1621948090251" />
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1616956107755" />
+    <state x="-1297" y="118" width="672" height="678" key="search.everywhere.popup" timestamp="1621439344611">
+      <screen x="-1920" y="-107" width="1920" height="1040" />
+    </state>
+    <state x="-1297" y="118" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-1920.-107.1920.1040@-1920.-107.1920.1040" timestamp="1621439344611" />
+  </component>
+</project>
