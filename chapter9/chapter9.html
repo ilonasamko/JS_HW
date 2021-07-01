@@ -2,10 +2,40 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Chapter9</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
 </head>
 <body>
-<script src="chapter9.js"></script>
-<div><h1>Check console output</h1></div>
+<h1 id="main-heading">Hello world!</h1>
+<h2>from Friends</h2>
+
+<script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
+<script>
+    //#1. Перечислите своих друзей (и сделайте их лучшими!)
+
+    $("h1").text("My friends");
+    let friends = ["Max", "Kris", "Alex"];
+    for (let i = 0; i < friends.length; i++) {
+        $("body").append("<p>" + friends[i] + "</p>");
+    }
+    $("p").hide(1000);
+    $("p").fadeIn(3000);
+    $("p").append(" best");
+
+    //#2. Мигающий заголовок
+    let a = 1000;
+    for(let i = 0; i < 5; i++) {
+        $("h1").fadeOut(a).fadeIn(a);
+        a += 1000;
+    }
+
+    //#3. Отложенная анимаци
+    $("p").fadeOut(1000).delay(5000).fadeIn(1000);
+
+    //task 4 p.155
+    $("h2").fadeTo(2000, 0.2);
+
+</script>
 </body>
 </html>

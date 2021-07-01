@@ -19,20 +19,14 @@
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/main" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2108dd38-1b67-47db-8c52-38aebec38c5f" name="Default Changelist" comment="add chapter8">
-      <change afterPath="$PROJECT_DIR$/chapter8/chapter8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter8/chapter8.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/chapter2.js" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/chapter2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/chapter3.js" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/chapter3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/chapter4.js" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/chapter4.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter6/chapter6.js" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/chapter6.js" afterDir="false" />
-    </list>
+    <list default="true" id="2108dd38-1b67-47db-8c52-38aebec38c5f" name="Default Changelist" comment="add chapter8" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
